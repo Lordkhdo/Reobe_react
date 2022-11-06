@@ -1,8 +1,12 @@
 import "./App.css";
+
 import Dsadsa from "./comp/Button";
 
+
+
+
 function App() {
-  return <div><Dsadsa></Dsadsa></div>;
+  return <><Dsadsa /></>;
 }
 
 export default App;
